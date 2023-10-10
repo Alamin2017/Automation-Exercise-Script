@@ -1,0 +1,1 @@
+{"uuid":"6dbb4d7a-0c2a-4da7-a2ee-b10c92006f05","name":"envsetups.BaseEnv.setup","children":["ebf65373-cce1-47c6-be7d-0a41a4b1f40e"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1696780385625,"stop":1696780388077}],"afters":[],"start":1696780385623,"stop":1696780388077}
